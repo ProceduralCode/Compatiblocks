@@ -1,0 +1,2347 @@
+{
+	"placeables": [
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/9_RoadGrassFlatMain/9_RoadGrassStraight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 0 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/9_RoadGrassFlatMain/8_RoadGrassBranchTShape.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -112, 8, -96 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/W_RG_Tur_Flat_HBLeft_Up2_Left1/T_RG_Tur_Flat_HBLeft_Up2_Left4_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/V_RG_Chi_Flat_HBRight/W_RG_Chi_Flat_HBRight_Up2_Left1/V_RG_Chi_Flat_HBRight_Up2_Left1_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/U_RG_Chi_Flat_HBLeft/W_RG_Chi_Flat_HBLeft_Up2_Right1/V_RG_Chi_Flat_HBLeft_Up2_Right1_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/U_RG_Str_Flat_HBLeft/W_RG_Str_Flat_HBLeft_Up1_Center/V_RG_Str_Flat_HBLeft_Up1_Center_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 0, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/V_RG_Tur_Flat_HBLeft_Up1_Left1/V_RG_Tur_Flat_HBLeft_Up1_Left2_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/V_RG_Str_Flat_HBRight/W_RG_Str_Flat_HBRight_Up1_Center/W_RG_Str_Flat_HBRight_Up1_Center_Size1.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 0 ],
+					"dir": "East"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/9_RoadGrassFlatMain/7_RoadGrassBranchCross.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 144, 0, -128 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/8_RoadGrassFlatCurves/5_RoadGrassCurve5.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 112, 0, -96 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/8_RoadGrassFlatCurves/6_RoadGrassCurve4.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 0, -64 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/8_RoadGrassFlatCurves/7_RoadGrassCurve3.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/8_RoadGrassFlatCurves/8_RoadGrassCurve2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/8_RoadGrassFlatCurves/9_RoadGrassCurve1.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/7_RoadGrassFlatChicane/9_RoadGrassChicaneX2Left.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/7_RoadGrassFlatChicane/8_RoadGrassChicaneX3Left.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/7_RoadGrassFlatChicane/6_RoadGrassChicaneX3Right.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/9_RoadGrassFlat/7_RoadGrassFlatChicane/7_RoadGrassChicaneX2Right.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/9_RoadGrassSlopeFlat/9_RoadGrassSlopeBase.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 16, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/9_RoadGrassSlopeFlat/8_RoadGrassSlopeBase2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/9_RoadGrassSlopeFlat/7_RoadGrassSlopeBaseX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 16, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/9_RoadGrassSlopeFlat/6_RoadGrassSlopeBase2X2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/8_RoadGrassSlopeHill/9_RoadGrassSlopeStraight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/8_RoadGrassSlopeHill/8_RoadGrassSlopeStartX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/8_RoadGrassSlopeHill/7_RoadGrassSlopeEndX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/7_RoadGrassSlopeU/9_RoadGrassSlopeUTop.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/7_RoadGrassSlopeU/8_RoadGrassSlopeUTopX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/7_RoadGrassSlopeU/7_RoadGrassSlopeUBottom.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/7_RoadGrassSlopeU/6_RoadGrassSlopeUBottomX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 16, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/6_RoadGrassSlopeChicane/9_RoadGrassChicaneX2SlopeLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 24, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/6_RoadGrassSlopeChicane/8_RoadGrassChicaneX3SlopeLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 24, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/6_RoadGrassSlopeChicane/6_RoadGrassChicaneX3SlopeRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 16, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/8_RoadGrassSlope/6_RoadGrassSlopeChicane/7_RoadGrassChicaneX2SlopeRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/9_RoadGrassTiltMain/9_RoadGrassTiltStraight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/9_RoadGrassTiltMain/8_RoadGrassTiltSwitchLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/9_RoadGrassTiltMain/7_RoadGrassTiltSwitchRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/9_RoadGrassTiltMain/6_RoadGrassTiltSwitchRightX2Left.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/9_RoadGrassTiltMain/5_RoadGrassTiltSwitchRightX2Right.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/8_RoadGrassTiltChicane/7_RoadGrassChicaneX2TiltRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/8_RoadGrassTiltChicane/6_RoadGrassChicaneX3TiltRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 8, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/8_RoadGrassTiltChicane/8_RoadGrassChicaneX3TiltLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/8_RoadGrassTiltChicane/9_RoadGrassChicaneX2TiltLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/7_RoadGrassTiltCurves/9_RoadGrassTiltCurve1.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/7_RoadGrassTiltCurves/8_RoadGrassTiltCurve2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 0, -64 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/7_RoadGrassTiltCurves/7_RoadGrassTiltCurve3.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 112, 0, -96 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/7_RoadGrassTiltCurves/6_RoadGrassTiltCurve4.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/6_RoadGrassTiltCurvesOut/9_RoadGrassTiltCurveOut1.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/6_RoadGrassTiltCurvesOut/8_RoadGrassTiltCurveOut2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 0, -64 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/6_RoadGrassTiltCurvesOut/7_RoadGrassTiltCurveOut3.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 112, 0, -96 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/6_RoadGrassTiltCurvesOut/6_RoadGrassTiltCurveOut4.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/5_RoadGrassTiltSlopes/9_RoadGrassTiltCurveDownLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 0 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/5_RoadGrassTiltSlopes/8_RoadGrassTiltCurveDownRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, -8, 0 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/5_RoadGrassTiltSlopes/7_RoadGrassTiltCurveUpLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, -8, 0 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/5_RoadGrassTiltSlopes/6_RoadGrassTiltCurveUpRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 8, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/4_RoadGrassTiltSlopesX2/9_RoadGrassTiltCurveDownLeftX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 8, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/4_RoadGrassTiltSlopesX2/8_RoadGrassTiltCurveDownRightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, -16, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/4_RoadGrassTiltSlopesX2/6_RoadGrassTiltCurveUpRightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, -16, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/4_RoadGrassTiltSlopesX2/7_RoadGrassTiltCurveUpLeftX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/3_RoadGrassTiltTransUpRights/9_RoadGrassTiltTransUpRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/3_RoadGrassTiltTransUpRights/8_RoadGrassTiltTransUpRightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 0, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/3_RoadGrassTiltTransUpRights/7_RoadGrassTiltTransUpRightCurveIn.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/2_RoadGrassTiltTransUpLefts/9_RoadGrassTiltTransUpLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/2_RoadGrassTiltTransUpLefts/8_RoadGrassTiltTransUpLeftX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/2_RoadGrassTiltTransUpLefts/7_RoadGrassTiltTransUpLeftCurveIn.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, -8, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/1_RoadGrassTiltTransDownRights/9_RoadGrassTiltTransDownRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, -8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/1_RoadGrassTiltTransDownRights/8_RoadGrassTiltTransDownRightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, -8, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/1_RoadGrassTiltTransDownRights/7_RoadGrassTiltTransDownRightCurveIn.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, -8, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/0_RoadGrassTiltTransDownLefts/9_RoadGrassTiltTransDownLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, -8, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/0_RoadGrassTiltTransDownLefts/8_RoadGrassTiltTransDownLeftsX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, -8, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/7_RoadGrassTilt/0_RoadGrassTiltTransDownLefts/7_RoadGrassTiltTransDownLeftsCurveIn.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/U_RG_Str_Flat_HBLeft/W_RG_Str_Flat_HBLeft_Up1_Center/W_RG_Str_Flat_HBLeft_Up1_Center_Size1.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 8, -32 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/W_RG_Tur_Flat_HBLeft_Up2_Left1/V_RG_Tur_Flat_HBLeft_Up2_Left2_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 8, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/U_RG_Chi_Flat_HBLeft/W_RG_Chi_Flat_HBLeft_Up2_Right1/U_RG_Chi_Flat_HBLeft_Up2_Right1_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/U_RG_Str_Flat_HBLeft/W_RG_Str_Flat_HBLeft_Up1_Center/U_RG_Str_Flat_HBLeft_Up1_Center_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 112, 0, -96 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/V_RG_Tur_Flat_HBRight_Up1_Right1/T_RG_Tur_Flat_HBRight_Up1_Right4_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 8, -112 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/U_RG_Chi_Flat_HBLeft/W_RG_Chi_Flat_HBLeft_Up2_Right1/T_RG_Chi_Flat_HBLeft_Up2_Right1_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/U_RG_Chi_Flat_HBLeft/V_RG_Chi_Flat_HBLeft_Up1_Right1/V_RG_Chi_Flat_HBLeft_Up1_Right1_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/V_RG_Tur_Flat_HBRight_Up1_Right1/V_RG_Tur_Flat_HBRight_Up1_Right2_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 32, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/U_RG_Chi_Flat_HBLeft/V_RG_Chi_Flat_HBLeft_Up1_Right1/U_RG_Chi_Flat_HBLeft_Up1_Right1_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -112 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/U_RG_Str_Flat_HBLeft/W_RG_Str_Flat_HBLeft_Up1_Center/T_RG_Str_Flat_HBLeft_Up1_Center_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -112, 0, -96 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/V_RG_Tur_Flat_HBLeft_Up1_Left1/T_RG_Tur_Flat_HBLeft_Up1_Left4_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -80, 0, -64 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/V_RG_Tur_Flat_HBLeft_Up1_Left1/U_RG_Tur_Flat_HBLeft_Up1_Left3_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -144, 0, -128 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/V_RG_Tur_Flat_HBLeft_Up1_Left1/S_RG_Tur_Flat_HBLeft_Up1_Left5_Size5.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -80, 8, -64 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/W_RG_Tur_Flat_HBLeft_Up2_Left1/U_RG_Tur_Flat_HBLeft_Up2_Left3_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -144, 8, -128 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/U_RG_Tur_Flat_HBLeft/W_RG_Tur_Flat_HBLeft_Up2_Left1/S_RG_Tur_Flat_HBLeft_Up2_Left5_Size5.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 0, -64 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/V_RG_Tur_Flat_HBRight_Up1_Right1/U_RG_Tur_Flat_HBRight_Up1_Right3_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 144, 0, -128 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/V_RG_Tur_Flat_HBRight_Up1_Right1/S_RG_Tur_Flat_HBRight_Up1_Right5_Size5.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 8, -32 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/W_RG_Tur_Flat_HBRight_Up2_Right1/V_RG_Tur_Flat_HBRight_Up2_Right2_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 8, -64 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/W_RG_Tur_Flat_HBRight_Up2_Right1/U_RG_Tur_Flat_HBRight_Up2_Right3_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 112, 8, -96 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/W_RG_Tur_Flat_HBRight_Up2_Right1/T_RG_Tur_Flat_HBRight_Up2_Right4_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 144, 8, -128 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/UW_RG_Turn_FlatStart/V_RG_Tur_Flat_HBRight/W_RG_Tur_Flat_HBRight_Up2_Right1/S_RG_Tur_Flat_HBRight_Up2_Right5_Size5.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/V_RG_Chi_Flat_HBRight/V_RG_Chi_Flat_HBRight_Up1_Left1/V_RG_Chi_Flat_HBRight_Up1_Left1_Size2.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/V_RG_Chi_Flat_HBRight/V_RG_Chi_Flat_HBRight_Up1_Left1/U_RG_Chi_Flat_HBRight_Up1_Left1_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -32, 0, -112 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/VW_RG_Chicane_FlatStart/V_RG_Chi_Flat_HBRight/V_RG_Chi_Flat_HBRight_Up1_Left1/T_RG_Chi_Flat_HBRight_Up1_Left1_Size4.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/9_RoadGrassDiagStraight/9_RoadGrassDiagLeftStraightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/9_RoadGrassDiagStraight/8_RoadGrassDiagRightStraightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/8_RoadGrassDiagStartStraight/9_RoadGrassDiagnLeftStartStraightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/8_RoadGrassDiagStartStraight/8_RoadGrassDiagnRightStartStraightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -80, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/7_RoadGrassDiagStartCurveIn/8_RoadGrassDiagLeftStartCurve2In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/7_RoadGrassDiagStartCurveIn/9_RoadGrassDiagLeftStartCurve1In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -16 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/7_RoadGrassDiagStartCurveIn/7_RoadGrassDiagRightStartCurve1In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 80, 0, -16 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/7_RoadGrassDiagStartCurveIn/6_RoadGrassDiagRightStartCurve2In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -16 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/6_RoadGrassDiagStartCurveOut/9_RoadGrassDiagLeftStartCurve1Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, -48 ],
+					"dir": "West"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/6_RoadGrassDiagStartCurveOut/8_RoadGrassDiagLeftStartCurve2Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 0, -48 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/6_RoadGrassDiagStartCurveOut/6_RoadGrassDiagRightStartCurve2Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/6_RoadGrassDiagStartCurveOut/7_RoadGrassDiagRightStartCurve1Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/5_RoadGrassDiagBranch/9_RoadGrassBranchToDiagLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/5_RoadGrassDiagBranch/8_RoadGrassBranchToDiagRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/9_RoadGrassDiagSwitchCurve1Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -48 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/8_RoadGrassDiagSwitchCurve2Out.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/7_RoadGrassDiagSwitchStraightX1.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -48 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/4_RoadGrassDiagSwitchCurve2In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -16 ],
+					"dir": "East"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/5_RoadGrassDiagSwitchCurve1In.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/4_RoadGrassDiagSwitch/6_RoadGrassDiagSwitchStraightX2.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "InvertedDiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -48, 80, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/3_RoadGrassDiagLoop/8_RoadGrassDiagLeftLoop11X.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "InvertedDiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 40, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/3_RoadGrassDiagLoop/9_RoadGrassDiagLeftLoop6X.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "InvertedDiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 40, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/3_RoadGrassDiagLoop/7_RoadGrassDiagRightLoop6X.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "InvertedDiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 48, 80, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/6_RoadGrassDiag/3_RoadGrassDiagLoop/6_RoadGrassDiagRightLoop11X.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/9_RoadGrassCheckpoint.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/8_RoadGrassCheckpointSlopeUp.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/7_RoadGrassCheckpointSlopeDown.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/6_RoadGrassCheckpointTiltLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -16 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/5_RoadGrassCheckpointTiltRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/4_RoadGrassDiagLeftCheckpoint.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/9_RoadGrassCPs/3_RoadGrassDiagRightCheckpoint.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/9_RoadGrassStart.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/8_RoadGrassStartSlopeUp.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/7_RoadGrassStartSlopeDown.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/6_RoadGrassStartTiltLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/5_RoadGrassStartTiltRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/4_RoadGrassStartDiagLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/8_RoadGrassStart/3_RoadGrassStartDiagRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/9_RoadGrassFinish.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeUp",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 8, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/8_RoadGrassFinishSlopeUp.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlopeDown",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/7_RoadGrassFinishSlopeDown.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/6_RoadGrassFinishTiltLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "SlantRight",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/5_RoadGrassFinishTiltRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 16, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/4_RoadGrassFinishDiagLeft.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "DiagRight",
+					"roadShape": "RoadGrass",
+					"pos": [ -16, 0, 16 ],
+					"dir": "North"
+				}
+			],
+			"idName": "Item:RoadGrass/5_RoadGrassCPsStartFin/7_RoadGrassFinish/3_RoadGrassFinishDiagRight.Item.Gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -80 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/V_RG_Str_Flat_HBRight/W_RG_Str_Flat_HBRight_Up1_Center/U_RG_Str_Flat_HBRight_Up1_Center_Size3.Item.gbx"
+		},
+		{
+			"pclips": [
+				{
+					"slope": "Flat",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, 16 ],
+					"dir": "North"
+				},
+				{
+					"slope": "SlantLeft",
+					"roadShape": "RoadGrass",
+					"pos": [ 0, 0, -48 ],
+					"dir": "South"
+				}
+			],
+			"idName": "Item:WTMT_RoadGrass/WW_RG_Straight_FlatStart/V_RG_Str_Flat_HBRight/W_RG_Str_Flat_HBRight_Up1_Center/V_RG_Str_Flat_HBRight_Up1_Center_Size2.Item.gbx"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+[meta]
+name = "Compatiblocks"
+author = "Spemble"
+version = "0.0.1"
+description = "Suggests compatible next blocks in editor."
+repository = "https://github.com/ProceduralCode/Compatiblocks"
+tags = ["editor", "blocks", "map-maker"]
+game = "trackmania"
+
+[script]
+dependencies = ["Editor"]
+
+[main]
+file = "main.as"
